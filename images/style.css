@@ -1,0 +1,19 @@
+.content{
+    width: 100%;
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    align-content: center;
+}
+.weather{
+    background-color: lightblue;
+
+    width: 50%;
+    
+}
+.details{
+    width: 20%;
+}
+.baloon-img{
+    margin: 10% 20%;
+}
